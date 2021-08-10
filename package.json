@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://josserden.github.io/39-blended-team2",
+  "homepage": "https://Valentin181988.github.io/test",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /39-blended-team2/"
+    "build": "parcel build src/*.html --public-url /test/"
   },
   "repository": {
     "type": "git",
